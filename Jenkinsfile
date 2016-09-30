@@ -1,9 +1,9 @@
 #!groovy
 
 node {
-	stage 'Instalando python en el ambiente virtual'
-	sh 'python setup.py install'
-	echo 'Instalando python...'
+	//stage 'Instalando python en el ambiente virtual'
+	//sh 'python setup.py install'
+	//echo 'Instalando python...'
 	
 	//stage 'Preparando ambiente'
 	//sh 'PYENV_HOME=$WORKSPACE/.pyenv/'
