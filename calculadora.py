@@ -6,10 +6,15 @@ def Menu():
                 Menu
                 ------------
                 1) Suma
-                2) Resta..........................................
+                2) Resta
                 3) Multiplicacion
+<<<<<<< HEAD
                 4) Division
                 5) Salir kfñhfñlknfñlnñ{flknñf}
+=======
+                4) Division 
+                5) Salir
+>>>>>>> c3f40d7582ad890349196dd74723f0581e39668a
           """
 
 def Calculadora():
