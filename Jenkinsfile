@@ -10,6 +10,8 @@ node {
 	//if [ -d $PYENV_HOME ]; then
     	//	sh 'rm -rf $PYENV_HOME'
 	//fi
+	stage 'run Unit Test'
+	
 	
 	//sh 'virtualenv --no-site-packages $PYENV_HOME'
 	//sh '. $PYENV_HOME/bin/activate'
