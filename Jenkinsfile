@@ -14,7 +14,7 @@ node {
 	//sh 'virtualenv --no-site-packages $PYENV_HOME'
 	//sh '. $PYENV_HOME/bin/activate'
 	stage 'Checkout source master'
-	git url: 'git://github.com/arlenesr28/testing.git',
+	git url: 'git://github.com/arlenesr28/testing.git'
 	//	branch: 'master'
 
 	checkout scm 
