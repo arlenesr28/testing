@@ -19,6 +19,9 @@ node {
 
 	checkout scm 
 	echo 'configuracion scm de dos branches'
+	
+	//stage 'Merge'
+	
 	//checkout([$class: 'GitSCM', branches: [[name: '*/master'],[name: '*/QA']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '593d0524-8364-4335-89d3-fc0bed5ed382', url: 'https://github.com/arlenesr28/testing.git']]])
 	//echo 'configuracion scm de dos branches'
 }
