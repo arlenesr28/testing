@@ -9,9 +9,7 @@ def Menu():
                 2) Resta
                 3) Multiplicacion
                 4) Division
-<<<<<<< HEAD
                 5) Salir 
-=======
                 5) Salir kfñhfñlknfñlnñ{flknñf}
 >>>>>>> 8178c4b5bb6bd7da32c0ad2d2d528c066be55871
                 4) Division 
